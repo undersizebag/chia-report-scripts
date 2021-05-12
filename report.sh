@@ -10,7 +10,7 @@
 # ------------- DEFINE VARIABLES -------------
 CWD=$PWD;
 
-API_ENDPOINT="YOUR_HTTP_ENDPOINT"
+API_ENDPOINT="https://discord.com/api/webhooks/841892531192070153/v-dhFVNjJ8DsV0lNflUkafmp-R50gO_-HMUF5jYCzL_Sucv16ohNiE8qlWhOnIEK079J"
 
 CHIA_INSTALL_DIR="/home/user/chia-blockchain"
 TEMP_DIR="/chia/logs";
